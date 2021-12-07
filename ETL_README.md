@@ -27,6 +27,7 @@ hard - more than 60 mins.
 ## Data Flow:
 
 ## Psuedo Code:
+
 ## Bonus Points:
 ### Config management
 ### Data quality checks
